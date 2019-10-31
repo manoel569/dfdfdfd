@@ -1,0 +1,172 @@
+#EXTM3U
+
+#EXTINF:-1,AMC HD
+http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BAND Sports HD
+http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
+
+#EXTINF:-1,BAND News HD
+http://hvod.imirun.net:8080/Band-News-HD/index.m3u8
+
+#EXTINF:-1,BIS
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Cinemax HD
+http://playback.imirun.net:8080//Cinemax-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Comedy Central
+http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery Civilization HD
+http://playback.imirun.net:8080//DiscoveryCivilization-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://playback.imirun.net:8080//DiscoveryChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery Channel HD
+http://playback.imirun.net:8080//DisneyChannelHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery Science HD
+http://playback.imirun.net:8080//DiscoveryScienceHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery Theater HD
+http://playback.imirun.net:8080//DiscoveryTheater-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery Turbo HD
+http://playback.imirun.net:8080//DiscoveryTurbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery World HD
+http://playback.imirun.net:8080//DiscoveryWorldHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,E! HD
+http://playback.imirun.net:8080//E!HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ESPN
+http://hvod.imirun.net:8080/ESPN/index.m3u8
+
+#EXTINF:-1,FOOD HD
+http://playback.imirun.net:8080//FoodNetworkHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,LifeTime HD
+http://playback.imirun.net:8080/Lifetime-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,FOX Premium 1 HD
+http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8
+
+#EXTINF:-1,FOX Premium 2 HD
+http://hvod.imirun.net:8080/Fox-Premium-2-HD/index.m3u8
+
+#EXTINF:-1,FX HD
+http://hvod.imirun.net:8080/FX-HD/index.m3u8
+
+#EXTINF:-1,FOX Sports 2 HD
+http://hvod.imirun.net:8080/Fox-Sports-2-HD/index.m3u8
+
+#EXTINF:-1,Globo News HD
+http://playback.imirun.net:8080/Globo-News-HD/index.m3u8
+
+#EXTINF:-1,GNT HD
+http://playback.imirun.net:8080//GNT-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,HBO2
+http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,HBO HD
+http://hvod.imirun.net:8080/HBO-HD/index.m3u8
+
+#EXTINF:-1,HBO Family HD
+http://playback.imirun.net:8080//HBO-Family-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Discovery Investigation HD
+http://playback.imirun.net:8080//InvestigacaoDiscoveryHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,LifeTime HD
+http://playback.imirun.net:8080//Lifetime-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MAX UP HD
+http://playback.imirun.net:8080//MaxUpHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MAX PRIME HD
+http://playback.imirun.net:8080//MaxPrime*eHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Megapix HD
+http://hvod.imirun.net:8080/MegapixHD/index.m3u8
+
+#EXTINF:-1,Multishow
+http://hvod.imirun.net:8080/Multishow/index.m3u8
+
+#EXTINF:-1,National Geographic HD
+http://hvod.imirun.net:8080/National-Geographic-HD/index.m3u8
+
+#EXTINF:-1,NatGeoWild HD
+http://playback.imirun.net:8080//NatGeoWild-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MTV HD
+http://playback.imirun.net:8080//MTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Multishow HD
+http://playback.imirun.net:8080//MultishowHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OFF
+http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,SyFy HD
+http://hvod.imirun.net:8080/SyFyHD/index.m3u8
+
+#EXTINF:-1,SBT HD
+http://hvod.imirun.net:8080/SBTHD/index.m3u8
+
+#EXTINF:-1,Studio Universal HD
+http://playback.imirun.net:8080//StudioUniversalHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Space HD
+http://hvod.imirun.net:8080/SpaceHD/index.m3u8
+
+#EXTINF:-1,Sony HD
+http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
+
+#EXTINF:-1,Telecine Premium
+http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Studio Universal
+http://playback.imirun.net:8080//StudioUniversal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Telecine Touch
+http://playback.imirun.net:8080//TelecineTouch/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,TCM
+http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,TBS
+http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,TV Gazeta
+http://playback.imirun.net:8080//TVGazeta/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,TNT S�ries
+http://playback.imirun.net:8080//TNTSeries/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,VIVA
+http://playback.imirun.net:8080//VIVA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,WooHoo
+http://playback.imirun.net:8080//Woohoo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Warner Channel
+http://hvod.imirun.net:8080/WarnerChannel/index.m3u8
+
+#EXTINF:-1,CANAL DO BOI
+https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w890019358.m3u8
+
+#EXTINF:-1,REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1014325294.m3u8
+
+#EXTINF:-1,RECORD
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8
+
+#EXTINF:-1,BAND
+https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:-1,DISNEY JR HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,e684993f245c481f1f1bb14b273256e3;base64np;-uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
